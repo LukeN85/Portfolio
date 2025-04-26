@@ -8,7 +8,7 @@ With skills in [Skill 1], [Skill 2], [Skill 3], and [Skill 4], I am able to [Act
 
 My [Adjective] skill set, commitment to [Value/Quality], and passion for [Interest] me as a valuable asset.  In my spare time, I like to [Hobby 1] and [Hobby 2]. 
 
-You can find me on [LinkedIn Hyperlink](), [Social Media 1]() or [Social Media 2]().
+You can find me on (https://www.linkedin.com/in/luke-neilan-846039309/), (https://www.instagram.com/luke_neilan_for_senate/) 
 
 ### Education 
 BSc in [Major]
