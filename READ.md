@@ -17,7 +17,7 @@ Loyola University, MD
 ### Projects
 
 #### Project 1 Title
-![My First Project]()
+![My First Project](https://github.com/LukeN85/Portfolio/blob/main/Project%20one.png?raw=true)
 - This is me making a timesheet of time management. I hope this shows my commitment to the job and making sure that I am able to manage everything perfectly. This was done through Microsoft Workbook which is a tool that I am not familiar with.
 
 ***
