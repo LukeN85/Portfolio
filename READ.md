@@ -22,10 +22,10 @@ Loyola University, MD
 
 ***
 #### Project 2 Title
- - image
+[]()
  - write up
 
 ***
 #### Project 3 Title
- - image
+ []()
  - write up
