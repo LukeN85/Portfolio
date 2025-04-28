@@ -28,4 +28,4 @@ Loyola University, MD
 ***
 #### Project 3 Title
 ![My Third Project](https://github.com/LukeN85/Portfolio/blob/main/project%20three.png?raw=true)
- - 
+ - This project was pretty challenging as it makes a quiz but based on the answers someone inputs. I am proud to say I now know how to use code that way.
