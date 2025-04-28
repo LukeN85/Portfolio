@@ -22,8 +22,8 @@ Loyola University, MD
 
 ***
 #### Project 2 Title
-[]()
- - write up
+![My 2nd project](https://github.com/LukeN85/Portfolio/blob/main/Project%20two.png?raw=true)
+ - 
 
 ***
 #### Project 3 Title
