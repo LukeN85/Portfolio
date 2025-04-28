@@ -22,10 +22,10 @@ Loyola University, MD
 
 ***
 #### Project 2 Title
-![My 2nd project](https://github.com/LukeN85/Portfolio/blob/main/Project%20two.png?raw=true)
+![My second project](https://github.com/LukeN85/Portfolio/blob/main/Project%20two.png?raw=true)
  - This is my project I did using code to make a quiz grade calculator. I like to be well organized and this knowledge and skill I put to the test was very helpful
 
 ***
 #### Project 3 Title
- []()
- - write up
+![My Third Project](https://github.com/LukeN85/Portfolio/blob/main/project%20three.png?raw=true)
+ - 
